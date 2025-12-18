@@ -2,6 +2,7 @@ bioinformatics_bootcamp/bioinformatics_bootcamp/acetylcholinesterase_06_bioactiv
 .gitignore.save
 bioinformatics_bootcamp/descriptors_output.csv
 bioinformatics_bootcamp/molecule.smi
+bioinformatics_bootcamp/CDD_ML_Part_5_Acetylcholinesterase_Compare_Regressors.ipynb
 bioinformatics_bootcamp/gitignore/
 bioinformatics_bootcamp/acetylcholinesterase_06_bioactivity_data_3class_pIC50_pubchem_fp.csv
 bioinformatics_bootcamp/CDD_ML_Part_5_Acetylcholinesterase_Compare_Regressors
@@ -39,4 +40,11 @@ bioinformatics_bootcamp/acetylcholinesterase_05_bioactivity_data_2class_pIC50.cs
 bioinformatics_bootcamp/CDD_ML_Part_2_Exploratory_Data_Analysis.ipynb
 .DS_Store
 
+
+alphafold_review/practice_code1.ipynb
+alphafold_review/.gitignore
+README.md
+section_2.txt
+filter_mantamonis.py
+mantamonis_filtering.ipynb
 
